@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Arabian Nights, Vol. 3
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36688#-------------3--13---------------------------
 gutenberg_issued: '2011-07-10'
 gutenberg_type: Text
 identifiers:
