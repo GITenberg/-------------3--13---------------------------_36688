@@ -1,0 +1,20 @@
+_repo: '-------------3--13---------------------------_36688'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Arabian Nights, Vol. 3
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36688'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+title: "Χαλιμά, Τόμος 3\r\nΕξακολούθησις των ιστοριών"
+url: http://www.gutenberg.org/ebooks/36688
